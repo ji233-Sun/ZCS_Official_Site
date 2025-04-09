@@ -44,6 +44,7 @@ nav:
   - 关于我们:
       - 组织架构: about/structure.md
       - 人员: about/staff.md
+      - 相关站点: about/sites.md
   - 作品:
       - 2026年:
           - PvZ2026新春会: works/2026.md
