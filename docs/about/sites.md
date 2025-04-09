@@ -4,6 +4,8 @@
 
 [社团官网](https://zcs-official.pages.dev/)
 
+[爱发电](https://afdian.com/a/PvZHome)
+
 ## 内部
 
 [植创社 File](https://alist.pvz.moe/)
